@@ -2,7 +2,7 @@
 
 <h3 align="center">Frontend Developer</h3>
 
-Frontend Developer. I started frontend prodramming in January 2023. Currently a developer who wants to learn more about JavaScript and its React library.
+Frontend Developer. I started frontend programming in January 2023. Currently a developer who wants to learn more about JavaScript and its React library.
 
 
 [💼Portfolio](https://frontendtester.uz) | [💬Telegram](https://t.me/Shohruh_02) | [📧Email](mailto:shokhrukhnuriddinov@gamil.com)
