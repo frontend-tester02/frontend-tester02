@@ -1,4 +1,7 @@
+# Nuriddinov Shokhrukh
+
 <h3 align="center">Frontend Developer</h3>
+
 Frontend Developer. I started frontend prodramming in January 2023. Currently a developer who wants to learn more about JavaScript and its React library.
 
 
@@ -23,7 +26,13 @@ Frontend Developer. I started frontend prodramming in January 2023. Currently a 
       </p>
 
 ## Projects
-<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page demo" width="200"/>
+
+| Preview | Description |
+|---|---|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page demo" width="250"/> <br>[Layout source](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp60) | **Ecommerce product page** <br>Online store product information page <br><br> <a href="https://github.com/frontend-tester02/ecommerce.git/">🧾 Repo</a> - <a href="https://shokhrukh-ecommerce-product-page.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 4 hour 45 minut<br><br> **Specific aspects:** Dropdown menu, image gallery, lightbox adjusted to whether there are products in the cart |
+
+**<a href="https://frontenttester.uz" target="_blank">💼 All projects</a>**
+
 
 ## Contact
 <a href="https://twitter.com/nuriddinov_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuriddinov_sh" height="30" width="40" /></a>
