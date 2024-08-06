@@ -4,9 +4,6 @@
     <a href="https://github.com/thebkht">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://x.com/thebkht">
-        <img alt="X (formerly Twitter) URL" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
 </p>
 
 # 📊 GitHub Stats:
@@ -19,15 +16,12 @@
 
 ### 👨‍💻 Programming Languages
 
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,js,php,ts)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=js,php,ts)](https://skillicons.dev)
 
 ### 🧰 Frameworks and libraries
 
-[![Frameworks and libraries](https://skillicons.dev/icons?i=dotnet,react,nodejs,vite,nextjs,bootstrap,tailwind,jquery)](https://skillicons.dev)
+[![Frameworks and libraries](https://skillicons.dev/icons?i=dotnet,react,vite,nextjs,bootstrap,tailwind,jquery)](https://skillicons.dev)
 
-### 🗄️ Databases
-
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
 ### ☁ Cloud hosting
 [![Cloud hosting](https://skillicons.dev/icons?i=heroku,vercel,netlify)](https://skillicons.dev)
@@ -39,8 +33,6 @@
 <p>
     <a href="#"><img alt="Windows"
                      src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-    <a href="#"><img alt="Linux"
-                     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     <a href="#"><img alt="Mac OS"
                      src="https://img.shields.io/badge/Mac%20OS-5BAFF2?style=for-the-badge&logo=kali&logoColor=white"></a>
     
