@@ -1,7 +1,7 @@
 ## 🙋‍♂️ Connect with me
 
 <p align="center">
-    <a href="https://github.com/thebkht">
+    <a href="https://github.com/frontend-tester02">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
@@ -24,10 +24,10 @@
 
 
 ### ☁ Cloud hosting
-[![Cloud hosting](https://skillicons.dev/icons?i=heroku,vercel,netlify)](https://skillicons.dev)
+[![Cloud hosting](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
 
 ### 💻 Software and tools
-[![Software and tools](https://skillicons.dev/icons?i=git,vscode,visualstudio,idea)](https://skillicons.dev)
+[![Software and tools](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
 
 ### 💻 My favorite operating systems
 <p>
