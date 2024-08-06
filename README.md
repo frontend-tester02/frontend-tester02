@@ -7,9 +7,9 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thebkht&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thebkht&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thebkht&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=frontend-tester&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=frontend-tester&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=frontedn-tester&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🛠️ My favorite tools
 
