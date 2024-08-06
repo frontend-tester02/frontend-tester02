@@ -7,14 +7,9 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=frontend-tester&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=frontend-tester&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=frontedn-tester&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frontend-tester02&show_icons=true&locale=en&layout=compact" alt="frontend-tester02" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=frontend-tester02&show_icons=true&locale=en" alt="frontend-tester02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontend-tester02&" alt="frontend-tester02" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=frontend-tester02&show_icons=true&locale=en&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=frontend-tester02&show_icons=true&locale=en)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=frontend-tester02&)
 
 ## 🛠️ My favorite tools
 
