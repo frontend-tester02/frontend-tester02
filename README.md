@@ -4,6 +4,9 @@
     <a href="https://github.com/frontend-tester02">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/frontend-tester02">
+        <img alt="Telegram"
+             src="https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 # 📊 GitHub Stats:
