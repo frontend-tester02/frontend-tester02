@@ -8,6 +8,7 @@
         <img alt="Telegram"
              src="https://img.shields.io/badge/Telegram-100000?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
+![frontend-tester02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=frontend-tester02&theme=vue-dark&hide_border=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=frontend-tester02&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
